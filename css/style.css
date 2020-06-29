@@ -1,0 +1,146 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #ebeff2;
+}
+
+#section-main {
+    background-color: #040e35;
+    height: 50vh;
+}
+
+.logo img {
+    vertical-align: middle;
+    border-style: none;
+    margin-top: 75px;
+    margin-bottom: 40px;
+    margin-left: 41.5%;
+    width: 10.5em;
+    height: 52px;
+}
+
+form {
+    background-color: #ffffff;
+    width: 37.5%;
+    padding: 0 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 30%;
+    padding-bottom: 20px;
+}
+
+.form {
+    height: 350px;
+}
+
+.form h5,
+.form p {
+    margin-top: 7px;
+    text-align: center;
+}
+
+.form button {
+    background-color: #0c2481;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+input.form-field {
+    height: 44px;
+}
+
+.form-field {
+    height: 50px;
+}
+
+#section-main form .icon {
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.p-icon {
+    font-size: 14px;
+    font-family: "Open Sans",
+        sans-serif;
+}
+
+#section-start {
+    background-color: #ebeff2;
+}
+
+.start p {
+    margin-left: 38%;
+    margin-top: 18%;
+    background-color: #ebeff2;
+}
+
+#section-main-mobile {
+    background-color: #040e35;
+    height: 50vh;
+}
+
+.logo-mobile img {
+    vertical-align: middle;
+    border-style: none;
+    margin-top: 75px;
+    margin-bottom: 40px;
+    margin-left: 31.5%;
+    width: 10.5em;
+    height: 52px;
+}
+
+.form-mobile-main {
+    background-color: #ffffff;
+    width: 95%;
+    padding: 0 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 3%;
+    padding-bottom: 20px;
+}
+
+.form-mobile {
+    height: 350px;
+}
+
+.form-mobile h5,
+.form-mobile p {
+    margin-top: 7px;
+    text-align: center;
+}
+
+.form-mobile button {
+    background-color: #0c2481;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+input.form-field-mobile {
+    height: 44px;
+}
+
+.form-field-mobile {
+    height: 50px;
+}
+
+#section-main-mobile form .icon-mobile {
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.p-icon-mobile {
+    font-size: 14px;
+    font-family: "Open Sans",
+        sans-serif;
+}
+
+#section-start-mobile {
+    background-color: #ebeff2;
+}
+
+.start-mobile p {
+    margin-left: 15%;
+    margin-top: 61%;
+    background-color: #ebeff2;
+}
